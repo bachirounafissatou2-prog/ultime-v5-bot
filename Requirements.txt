@@ -3,3 +3,4 @@ requests
 urllib3
 websockets>=12.0
 aiohttp>=3.9.0
+numpy>=1.24.0
